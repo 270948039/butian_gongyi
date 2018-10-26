@@ -1,4 +1,6 @@
 #coding=utf-8
+#write by D12ea1v1
+#headers:cookie处要改成登陆后的cookie
 import json
 import requests
 import re
